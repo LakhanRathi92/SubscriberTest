@@ -12,7 +12,7 @@ import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
 
 public class SubscriberTwo {
 
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args){
 		
 		String Query2 = "PREFIX ssn: <http://www.w3.org/2005/Incubator/ssn/ssnx/ssn/> "+
 				"PREFIX DUL: <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl/> " +
