@@ -1,5 +1,4 @@
 package subscriberTwo;
-import java.io.IOException;
 
 import org.eclipse.paho.client.mqttv3.IMqttDeliveryToken;
 import org.eclipse.paho.client.mqttv3.MqttAsyncClient;
